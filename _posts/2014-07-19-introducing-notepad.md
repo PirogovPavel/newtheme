@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Introducing Notepad"
+title: "Bloodborne"
 description:
 headline:
 modified: 2014-07-19
 category: personal
 tags: []
-imagefeature: cover1.jpg
+imagefeature: bb2.jpg
 comments: true
 mathjax:
 ---
