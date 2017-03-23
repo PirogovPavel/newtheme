@@ -12,7 +12,7 @@ chart:
 comments: true
 featured: true
 ---
-![cover-image] (https://www.primagames.com/media/images/news/bloodborne-big.jpg)
+![cover-image] (images/bb2.jpg)
 
 **Знакомство.**
 Я думаю нет смысла рассказывать о BB, не рассказав о первых мозолях, пробах и ошибок в знакомстве с играми серии Souls.
