@@ -4,7 +4,7 @@ title: "Bloodborne"
 description:
 headline:
 modified: 2017-03-24
-category: webdevelopment
+category: Games
 tags: [games]
 imagefeature:
 mathjax:
@@ -12,6 +12,7 @@ chart:
 comments: true
 featured: true
 ---
+![cover-image] (https://www.primagames.com/media/images/news/bloodborne-big.jpg)
 
 **Знакомство.**
 Я думаю нет смысла рассказывать о BB, не рассказав о первых мозолях, пробах и ошибок в знакомстве с играми серии Souls.
